@@ -1,0 +1,45 @@
+body{
+    margin: 20px;
+    text-align: center;
+    
+}
+
+
+.main{
+    margin:50px;
+    display: flex;
+    justify-content: center;
+     
+    border: 1px dotted black;
+    background: rgb(0, 225, 255);
+    height: fit-content;
+    width: fit-content;
+   
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom: 10px solid palevioletred;
+
+    
+    
+}
+
+.photo{
+    padding: 30px;
+    
+    width:200px;
+    height:200px;
+   
+}
+
+.abc{
+    margin-left: 40px;
+    color: brown;
+    margin-right: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+
+    
+    
+
+}
